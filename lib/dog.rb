@@ -1,2 +1,7 @@
 class Dog
-  def .name=
+  def doggy(name, bark)
+    @name = name
+    @bark = bark
+  end
+end
+
